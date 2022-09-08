@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pCODE"]
+	path = pCODE
+	url = https://github.com/alex-haixuw/pcode
+	shallow = true
+	registered = true
